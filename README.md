@@ -8,9 +8,9 @@
 ## 模块结构
 
 1. **Hero 首屏** — 自我介绍 + 照片位 + 视频位
-2. **Works 作品集** — Web Coding 项目（记忆罐 / noteflow / 更多 GitHub 项目）
+2. **Works 作品集** — Web Coding 项目（记忆罐 / 旅行 AI 助手 / 更多 GitHub 项目）
 3. **Journey 经历** — 实习 + 教育时间线
-4. **Beyond Work** — 兴趣爱好 + My AI Workflow
+4. **Life 生活切片** — 摄影 / 音乐 / 调酒 / 运动 + My AI Workflow
 5. **Contact** — 邮箱 / 微信 / GitHub
 
 ## 素材替换指引
@@ -22,7 +22,10 @@
 | 个人照片 | 照片放入 `assets/img/`（如 `me.jpg`），在 Hero 区搜索 `TODO(照片)`，删除占位 SVG 和 "PHOTO HERE" 标签，启用 `<img>` |
 | 自我介绍视频 | 视频放入 `assets/video/`（如 `intro.mp4`），搜索 `TODO(视频)`，替换 `.video-slot` 内的占位内容为 `<video>` 标签 |
 | 项目截图 | 截图放入 `assets/img/`，在 Works 区搜索 `TODO(截图)`，替换对应卡片 |
-| 兴趣爱好 | 搜索 `TODO(兴趣)`，把三张占位兴趣卡换成真实爱好 |
+| 旅行 AI 助手链接 | 搜索 `TODO(链接)`，把 GitHub 链接换成真实仓库地址 |
+| 摄影作品 | 照片放入 `assets/img/`，在 Life 区搜索 `TODO(照片)`，替换三个照片占位槽 |
+| 歌单 | 搜索 `TODO(歌单)`，把 5 行占位歌曲换成真实歌名和歌手 |
+| 酒单 | 搜索 `TODO(酒单)`，把 3 款占位鸡尾酒换成常调/爱喝的酒 |
 | 经历数据 | Journey 区的数字成果为简历初稿数据，核实后直接修改对应文本 |
 
 ## 本地预览
