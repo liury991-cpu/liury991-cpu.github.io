@@ -22,7 +22,6 @@
 | 个人照片 | 照片放入 `assets/img/`（如 `me.jpg`），在 Hero 区搜索 `TODO(照片)`，删除占位 SVG 和 "PHOTO HERE" 标签，启用 `<img>` |
 | 自我介绍视频 | 视频放入 `assets/video/`（如 `intro.mp4`），搜索 `TODO(视频)`，替换 `.video-slot` 内的占位内容为 `<video>` 标签 |
 | 项目截图 | 截图放入 `assets/img/`，在 Works 区搜索 `TODO(截图)`，替换对应卡片 |
-| 旅行 AI 助手链接 | 搜索 `TODO(链接)`，把 GitHub 链接换成真实仓库地址 |
 | 摄影作品 | 照片放入 `assets/img/`，在 Life 区搜索 `TODO(照片)`，替换三个照片占位槽 |
 | 歌单 | 搜索 `TODO(歌单)`，把 5 行占位歌曲换成真实歌名和歌手 |
 | 酒单 | 搜索 `TODO(酒单)`，把 3 款占位鸡尾酒换成常调/爱喝的酒 |
